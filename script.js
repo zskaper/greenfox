@@ -1,1 +1,1 @@
-let tizenketto = 12;
+alert("add az alertet")
