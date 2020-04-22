@@ -1,5 +1,5 @@
-alert("add az alertet")
+alert("add az alertet");
 
-let szam = 0
+let szam = 0;
 
 // kattints(){myScript};
