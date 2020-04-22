@@ -2,5 +2,9 @@ p {
     color: red;
   }
   button {
-    border-color: black
+    border-color: black;
+  }
+
+  .szamolas {
+    color: green;
   }
